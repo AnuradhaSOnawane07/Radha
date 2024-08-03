@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radha&label=Profile%20views&color=0e75b6&style=flat" alt="radha" /> </p>
 
-- 🌱 I’m currently learning **Pyrhon,Java**
+- 🌱 I’m currently learning **Full Stack Web Development & Goggle cloude Skills**
 
-- 💬 Ask me about **C++,Python**
+- 💬 Ask me about **C++,Python,Java**
 
 - 📫 How to reach me **anurson.sc@gmail.com**
 
