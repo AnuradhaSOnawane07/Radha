@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuradha Sonawane</h1>
 <h3 align="center">CS Student From Nashik</h3>
-<img align="right" alt="Coding" width="400" src="https://https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-260nw-1731157933.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radha&label=Profile%20views&color=0e75b6&style=flat" alt="radha" /> </p>
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://instagram.com/_anu07s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anu07s" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuradha94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuradha94" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anurson_sc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anurson_sc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/anurson_sc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anurson_sc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
