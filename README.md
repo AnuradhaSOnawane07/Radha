@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development & Google cloude Skills**
 
-- 💬 Ask me about **C++,Python,Java**
+- 💬 Ask me about **C++,Python,Java,Data Structure**
 
 - 📫 How to reach me **anurson.sc@gmail.com**
 
